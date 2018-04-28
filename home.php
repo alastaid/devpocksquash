@@ -10,7 +10,6 @@
 
 <body>
 <?php 
-session_start();
 include ("headerbanner.php")
 ?>
 
